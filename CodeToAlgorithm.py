@@ -31,8 +31,6 @@ for line in linelist:
     line = line.replace('while', 'enquanto')
     line = line.replace('split', 'dividir')
     line = line.replace('write', 'escreve')
-    line = line.replace('w', 'abrir como escrita')
-    line = line.replace('r', 'abrir como leitura')
     f2.write(line)
 
 
