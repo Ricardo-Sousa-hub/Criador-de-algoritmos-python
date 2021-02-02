@@ -2,10 +2,11 @@
 Its good
 
 Para se usar o CodeToAlgorithm deve-se colar o codigo que pretende passar para pseudo-código num documento de texto.
-Coloque o nome que deu ao seu documento de texto no script de python.
 
-Execute o programa, e reabra o ficheiro de texto e pronto, está feito.
+Abra o programa e clique em abrir ficheiro
 
-Caso não funcione, tente mover o arquivo de texto para o ambiente de trabalho junto com o programa, após isso verifique se no codigo, escreveu o nome do ficheiro com a respetiva extensão
+Selecione o ficheiro que deseja passar de codigo para pseudo-codigo.
+
+E pronto lá está, irá receber uma mensagem a dizer que a operação foi concluida com sucesso
 
 Se desejar acrescentar mais alguma tradução ao codigo, sinta-se a vontade, para adicionar funcionalidades ao programa.
